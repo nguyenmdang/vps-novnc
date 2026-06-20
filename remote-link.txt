@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://farm-knowing-sending-records.trycloudflare.com/vnc.html
+URL       : https://usd-urge-mason-ignored.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-20 03:30:57
+Created   : 2026-06-20 08:23:08
 =======================================================
