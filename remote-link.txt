@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wildlife-builder-striking-deposits.trycloudflare.com/vnc.html
+URL       : https://precious-environment-chi-update.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-28 03:37:39
+Created   : 2026-06-28 08:22:33
 =======================================================
