@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://eden-demonstrate-responding-attachments.trycloudflare.com/vnc.html
+URL       : https://choose-dale-items-hospital.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-18 15:57:28
+Created   : 2026-07-18 20:45:32
 =======================================================
