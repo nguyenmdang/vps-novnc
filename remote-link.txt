@@ -1,9 +1,1 @@
-=======================================================
-noVNC INFO - DucThang x TrueHieu Edition
-=======================================================
-URL       : https://divx-literary-vernon-wizard.trycloudflare.com/vnc.html
-Password  : hieudz
-Host      : trycloudflare
-Protocol  : noVNC over Cloudflared
-Created   : 2026-07-19 15:58:04
-=======================================================
+TUNNEL_FAILED_20260719_210050
