@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dig-outreach-networks-package.trycloudflare.com/vnc.html
+URL       : https://supervisor-boring-whilst-smoke.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-22 21:06:25
+Created   : 2026-07-23 02:33:26
 =======================================================
