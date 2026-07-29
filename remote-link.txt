@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://apparently-prize-exemption-throw.trycloudflare.com/vnc.html
+URL       : https://plain-closed-conservation-selections.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-29 16:22:13
+Created   : 2026-07-29 20:55:32
 =======================================================
