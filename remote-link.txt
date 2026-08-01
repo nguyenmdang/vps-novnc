@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://contracts-hammer-stud-dispatched.trycloudflare.com/vnc.html
+URL       : https://nevada-hey-message-reduces.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-01 11:17:16
+Created   : 2026-08-01 16:01:30
 =======================================================
