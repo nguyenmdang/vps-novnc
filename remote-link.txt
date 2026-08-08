@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://elephant-webster-law-charming.trycloudflare.com/vnc.html
+URL       : https://resort-partnership-affecting-simpson.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-08 10:31:32
+Created   : 2026-08-08 15:29:06
 =======================================================
