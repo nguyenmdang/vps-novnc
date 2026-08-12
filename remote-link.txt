@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sao-toronto-period-indianapolis.trycloudflare.com/vnc.html
+URL       : https://contents-institute-geological-dubai.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-12 06:14:26
+Created   : 2026-08-12 11:01:01
 =======================================================
