@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://stand-generous-waiting-encouraging.trycloudflare.com/vnc.html
+URL       : https://leave-betty-villages-passive.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-16 20:26:08
+Created   : 2026-08-17 01:08:14
 =======================================================
