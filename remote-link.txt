@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://flush-queens-reforms-stays.trycloudflare.com/vnc.html
+URL       : https://specification-testimony-issue-truck.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-18 05:28:21
+Created   : 2026-08-18 10:28:11
 =======================================================
