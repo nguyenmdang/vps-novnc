@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://gis-audio-record-needed.trycloudflare.com/vnc.html
+URL       : https://nano-shopping-clicks-moisture.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-23 20:21:16
+Created   : 2026-08-24 01:08:57
 =======================================================
