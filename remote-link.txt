@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://soonest-clearance-robert-solo.trycloudflare.com/vnc.html
+URL       : https://mid-continued-posted-allow.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-29 18:12:37
+Created   : 2026-08-29 22:21:53
 =======================================================
