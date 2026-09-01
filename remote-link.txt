@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://vintage-awesome-activities-file.trycloudflare.com/vnc.html
+URL       : https://category-big-generations-firewall.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-01 14:33:03
+Created   : 2026-09-01 18:11:31
 =======================================================
