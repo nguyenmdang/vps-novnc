@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sign-focus-albany-framing.trycloudflare.com/vnc.html
+URL       : https://universal-average-widespread-affiliates.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-10 19:08:55
+Created   : 2026-10-10 23:14:58
 =======================================================
