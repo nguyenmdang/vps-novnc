@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://thompson-equivalent-fisher-loved.trycloudflare.com/vnc.html
+URL       : https://journalist-frog-estimated-alfred.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-23 09:46:09
+Created   : 2026-10-23 14:43:13
 =======================================================
