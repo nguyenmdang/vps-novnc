@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://whether-processors-expanding-contacted.trycloudflare.com/vnc.html
+URL       : https://liz-competition-after-paste.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-25 14:08:12
+Created   : 2026-10-25 18:08:52
 =======================================================
