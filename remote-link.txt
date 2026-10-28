@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://syndicate-secret-urban-writes.trycloudflare.com/vnc.html
+URL       : https://audio-tee-food-administrator.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-28 10:59:23
+Created   : 2026-10-28 20:05:52
 =======================================================
