@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://issue-zshops-firefox-measurements.trycloudflare.com/vnc.html
+URL       : https://outdoor-pod-hall-weblogs.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-01 23:23:47
+Created   : 2026-11-02 04:23:51
 =======================================================
