@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lonely-northern-personality-silence.trycloudflare.com/vnc.html
+URL       : https://insight-dressed-desperate-pride.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-05 05:04:25
+Created   : 2026-11-06 00:45:42
 =======================================================
