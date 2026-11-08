@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://highlight-certificate-engineering-depending.trycloudflare.com/vnc.html
+URL       : https://industry-jeffrey-territories-down.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-07 23:26:37
+Created   : 2026-11-08 04:25:51
 =======================================================
