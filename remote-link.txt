@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://industry-jeffrey-territories-down.trycloudflare.com/vnc.html
+URL       : https://identifies-scientists-retrieval-volumes.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-08 04:25:51
+Created   : 2026-11-08 11:42:46
 =======================================================
