@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://bids-bell-sending-pope.trycloudflare.com/vnc.html
+URL       : https://cups-newbie-oem-trance.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-16 04:44:41
+Created   : 2026-11-16 13:22:48
 =======================================================
