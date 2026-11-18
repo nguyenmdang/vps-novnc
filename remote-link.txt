@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://theology-surgeons-often-hon.trycloudflare.com/vnc.html
+URL       : https://injection-nothing-gene-reasons.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-17 18:58:25
+Created   : 2026-11-18 02:09:02
 =======================================================
