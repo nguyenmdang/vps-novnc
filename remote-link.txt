@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://reservations-anybody-chair-infrastructure.trycloudflare.com/vnc.html
+URL       : https://huge-amanda-super-landscapes.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-18 22:30:52
+Created   : 2026-11-19 05:54:14
 =======================================================
