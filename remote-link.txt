@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://riding-related-munich-grammar.trycloudflare.com/vnc.html
+URL       : https://newcastle-initial-ranch-map.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-26 23:30:37
+Created   : 2026-11-27 06:42:41
 =======================================================
