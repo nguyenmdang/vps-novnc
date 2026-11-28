@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://brakes-requiring-trip-writings.trycloudflare.com/vnc.html
+URL       : https://treasures-art-geographical-sys.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-28 02:30:24
+Created   : 2026-11-28 13:54:18
 =======================================================
